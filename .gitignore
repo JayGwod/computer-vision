@@ -1,4 +1,5 @@
-py3env
 .ipynb_checkpoints
 nohup.out
-readonly
+py3env
+readonly/images.zip
+readonly/small_img.zip
